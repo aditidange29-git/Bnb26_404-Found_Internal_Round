@@ -1,0 +1,6 @@
+{
+  "name": "Quorum - Supply Chain Verifier",
+  "description": "Decentralized software supply-chain verification engine using multi-builder reproducible builds, cryptographic attestations, and quorum consensus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
